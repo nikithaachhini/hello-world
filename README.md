@@ -1,2 +1,4 @@
 # hello-world
-It's just a start where I would create my basic angular2 app
+
+I'm a web developer, I like JavaScript, Angular JS. Worked so far on these along with JQuery, handlebars,HTML and CSS.
+Currently my interest is in angularJS predominantly in Angular2.
