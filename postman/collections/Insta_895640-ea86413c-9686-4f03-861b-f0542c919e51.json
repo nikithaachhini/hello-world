@@ -46,7 +46,7 @@
 			"auth": null,
 			"queryParams": [],
 			"pathVariableData": [],
-			"url": "https://www.instagram.com",
+			"url": "https://www.postman.com",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
