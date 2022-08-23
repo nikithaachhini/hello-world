@@ -1,0 +1,61 @@
+{
+	"owner": "895640",
+	"uid": "895640-895640-ea86413c-9686-4f03-861b-f0542c919e51",
+	"foldersOrder": [],
+	"variables": [],
+	"id": "895640-ea86413c-9686-4f03-861b-f0542c919e51",
+	"name": "Insta",
+	"description": null,
+	"order": [
+		"895640-3499aead-5a25-4ae0-95e0-17e25b30b6a8"
+	],
+	"folders_order": [],
+	"auth": null,
+	"protocolProfileBehavior": {},
+	"createdAt": "2022-08-18T11:02:50.000Z",
+	"events": null,
+	"options": {
+		"type": "readWrite"
+	},
+	"meta": {
+		"parent": {
+			"type": "api",
+			"id": "8c951ca3-0799-40d5-a6d0-99fa73fcf12c",
+			"apiVersionId": "951f470c-3786-455c-8c3b-e6cf8f2da5bc",
+			"mode": {
+				"name": "branch",
+				"value": "angular2"
+			}
+		}
+	},
+	"folders": [],
+	"requests": [
+		{
+			"owner": "895640",
+			"uid": "895640-895640-3499aead-5a25-4ae0-95e0-17e25b30b6a8",
+			"id": "895640-3499aead-5a25-4ae0-95e0-17e25b30b6a8",
+			"name": "home page",
+			"description": null,
+			"method": "GET",
+			"data": null,
+			"dataOptions": null,
+			"dataMode": null,
+			"headerData": [],
+			"folder": null,
+			"collection": "895640-ea86413c-9686-4f03-861b-f0542c919e51",
+			"auth": null,
+			"queryParams": [],
+			"pathVariableData": [],
+			"url": "https://www.instagram.com",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"createdAt": null,
+			"events": null,
+			"responses_order": [],
+			"responses": [],
+			"headers": "",
+			"pathVariables": {}
+		}
+	]
+}

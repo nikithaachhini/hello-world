@@ -1,0 +1,14 @@
+id = 8c951ca3-0799-40d5-a6d0-99fa73fcf12c
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"895640-ea86413c-9686-4f03-861b-f0542c919e51","path":"Insta_895640-ea86413c-9686-4f03-861b-f0542c919e51.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+
+[relations.apiDefinition.metaData]
